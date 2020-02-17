@@ -27,4 +27,8 @@ Mass |   Speed |  Class
 1.6    |  0.7   | Fighter
 
 
+The equation of the feasible region is: 
+4y = x + 0.8
+
+
 
